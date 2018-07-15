@@ -1,2 +1,2 @@
-# burguer-react-udemy
+# burger-react-udemy
 Burguer shop project in React for Udemy course
